@@ -214,11 +214,11 @@ aparece em buscas nem no seu canal.
 
 ### Para onde enviar
 
-A entrega é feita **pelo formulário**, não por e-mail:
+A entrega fina do teste é feita **pelo formulário**:
 
 **https://docs.google.com/forms/d/e/1FAIpQLScTl1ABscrQ2yHR-dSzu58wE73qj-zPiPVyBOvvjMsdUWfaAQ/viewform**
 
-Você só precisa do **link do seu fork** — o link do vídeo estará no `README.md` dele.
+Você só precisa do **link do seu fork**
 
 > **Precisando se comunicar durante o teste?** Escreva para **lucas@dg.energy**. Use esse e-mail.
 ---
