@@ -37,7 +37,7 @@ Os dados são derivados de uma carteira real, anonimizados — **com os defeitos
 | `P` | Percentual de rateio alocado para a UC |
 | `G` | Geração total da usina |
 
-**Mês de referência para todo o desafio: `2026-06-01`.**
+**Mês de referência para todo o desafio: `2026-07-01`.**
 
 ---
 
