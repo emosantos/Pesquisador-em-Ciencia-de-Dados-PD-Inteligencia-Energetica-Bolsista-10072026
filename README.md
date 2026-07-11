@@ -67,9 +67,12 @@ Implemente a lógica de alocação de créditos:
 Sua função deve **receber o mês como parâmetro** e funcionar para qualquer mês do
 histórico — não apenas o de referência.
 
-O rateio é feito sobre o **consumo faturado** do mês: use os valores como eles estão na
-base. Se você decidir corrigir ou imputar algum valor, essa correção vale para a
+O rateio é feito sobre o **consumo faturado** do mês — ou seja, o *valor* de cada linha
+entra como está. Se você decidir imputar ou corrigir um valor, essa correção vale para a
 modelagem (Q3), não para o rateio.
+
+Isso vale para o **valor**, e não dispensa você de tratar a **estrutura** da base: se a
+mesma UC aparece mais de uma vez no mesmo mês, o rateio dela está errado.
 
 **Valide** que `Σ P = 1` — e pergunte-se se essa validação prova mesmo que o seu rateio
 está correto.
