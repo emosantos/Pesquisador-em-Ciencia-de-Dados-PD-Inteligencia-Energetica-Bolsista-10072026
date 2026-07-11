@@ -182,29 +182,45 @@ O fork deve conter:
 - um **`requirements.txt`** (ou `environment.yml`, ou `pyproject.toml`) — precisamos
   conseguir rodar seu código;
 - um **`SOLUCAO.md`** curto, ou uma seção inicial no notebook, dizendo o que você fez,
-  o que deixou de fora e por quê.
+  o que deixou de fora e por quê;
+- **o link do seu vídeo, no topo do `README.md` do fork** (veja o item 2).
 
 **Commite ao longo do trabalho**, não tudo de uma vez no fim. O histórico faz parte da
 entrega: queremos ver como você pensou, não só onde chegou.
 
-### 2. Um vídeo de 3 a 5 minutos
+### 2. Um vídeo de 3 a 5 minutos, no YouTube
 
-Não listado (YouTube, Loom, Drive), apresentando a solução como se fosse para o CTO e o
-time de Produto:
+Grave um vídeo de 3 a 5 minutos apresentando a solução como se fosse para o CTO e o time
+de Produto:
 
 - **1 min** — o problema: o que é o rateio na GD, e a dor da vacância/overbooking.
 - **2 min** — a solução: qual modelo venceu na Q3 e **por quê**; como você pensou o
   rebalanceamento da Q4.
 - **1 min** — o insight mais interessante da Q5 e o que a Digital Grid faz com ele.
 
+**Suba no YouTube como "Não listado"** (*Unlisted*) — não como "Privado", senão não
+conseguimos abrir. Não listado significa que só quem tem o link acessa; o vídeo não
+aparece em buscas nem no seu canal.
+
+> No YouTube: **Enviar vídeo → Visibilidade → Não listado.**
+
+**Cole o link no topo do `README.md` do seu fork**, assim:
+
+```markdown
+# Desafio Digital Grid — <seu nome>
+
+🎥 **Vídeo de apresentação:** https://youtu.be/xxxxxxxxxxx
+```
+
 ### Para onde enviar
 
-Mande **o link do seu fork** e **o link do vídeo** para **lucas@dg.energy**, com o
-assunto:
+Mande **o link do seu fork** para **lucas@dg.energy**, com o assunto:
 
 ```
 Desafio Data Science — <seu nome completo>
 ```
+
+O link do vídeo estará no `README.md` do fork — não precisa mandar separado.
 
 ---
 
