@@ -37,6 +37,8 @@ ipython_config.py
 !.env.example
 *.pem
 credentials.json
+.venv
+!.venv
 
 # --- Saídas e artefatos ---
 outputs/
