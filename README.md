@@ -1,3 +1,9 @@
+# Desafio Digital Grid — <seu nome>
+
+🎥 **Vídeo de apresentação:** https://www.youtube.com/watch?v=0nNuiiBwG0k
+
+(PS: Não tive tempo para fazer um solucao.md, porém todos os passos e conclusões estão detalhadas em resolucao.ipynb) 
+
 # Desafio Técnico de Data Science — Digital Grid
 
 Vaga: Pesquisador em Ciência de Dados — P&D Inteligência Energética (Bolsista)
